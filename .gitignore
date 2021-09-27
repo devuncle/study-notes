@@ -1,3 +1,10 @@
+.DS_Store
+
+###临时去掉emacs 临时自动保存的文件
+\#*
+.\#*
+*.org~
+
 dist
 dist-*
 cabal-dev
@@ -21,3 +28,4 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+
