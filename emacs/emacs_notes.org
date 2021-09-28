@@ -25,4 +25,8 @@ If the registry entry HKLM\SOFTWARE\GNU\Emacs\HOME is set, use the directory it 
 If C:.emacs exists, then use C:/. This is for backward compatibility, as previous versions defaulted to C:/ if HOME was not set.
 Use the user's AppData directory, usually a directory called Application Data under the user's profile directory, the location of which varies according to Windows version and whether the computer is part of a domain.
 
+又找到了一个emacs配方：Centaur Emacs ：https://seagle0128.github.io/.emacs.d/ 
+开始学习这个据说这个比较轻量级。是默认的快捷键。没有vim。 
+从github是下载了很快，但是安装包就很慢。还在编译。有十分钟了吧。
+
 * day 03
