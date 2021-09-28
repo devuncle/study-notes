@@ -15,5 +15,14 @@
 
 * day 02
 实际上已经开始学习第二天的课程了，因为以前学过一次了，但是好多不用就忘记了。
+- 中文字体不好看，不知道为什么？ 可以对比下wc code下的中文字体。
+  
+在 windows 环境下，emacs 的配置目录可以通过下面几种方式来设置：
+
+If the environment variableHOME is set, use the directory it indicates.
+If the registry entry HKCU\SOFTWARE\GNU\Emacs\HOME is set, use the directory it indicates.
+If the registry entry HKLM\SOFTWARE\GNU\Emacs\HOME is set, use the directory it indicates. Not recommended, as it results in users sharing the same HOME directory.
+If C:.emacs exists, then use C:/. This is for backward compatibility, as previous versions defaulted to C:/ if HOME was not set.
+Use the user's AppData directory, usually a directory called Application Data under the user's profile directory, the location of which varies according to Windows version and whether the computer is part of a domain.
 
 * day 03
