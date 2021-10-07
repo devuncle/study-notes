@@ -43,6 +43,20 @@ Use the user's AppData directory, usually a directory called Application Data un
 Zettelkasten方法让笔记是一个有生命的东西，定期添加笔记，最重要的是，通过重新组织内容、添加指向其他笔记的链接等，经常阅读和改进笔记。
 贼特卡斯滕是你个人的，也只有你自己来编辑，她就像你的第二个大脑。
 尼卡拉斯.路哈曼手写每个笔记，他个贼特笔记都是一个个的卡片。他还发明了独特的索引方法，使用特殊的结构来安排不同学科门类。这个网站https://niklas-luhmann-archiv.de/bestand/zettelkasten/suche有他的笔记样板。
+为了实现数字化的贼特卡斯滕方法，一个能够在笔记之间创建链接的笔记应用程序。 一个不错的好处是为笔记添加标签以简化相关笔记集的搜索和生成。
 
+专有软件市场上有许多支持 Zettelkasten 的创建和管理的应用程序。 也有免费软件同行。
+
+Emacs 提供了几个包：
+- Neuron Mode ， 使用马克党格式
+- org-zettelkasten, 
+- Zetteldeft, which use deft
+- org-roam, based on org-mode and inspired by a commercial application.
+
+可能还有其他我不知道的。 org-roam似乎是最受欢迎的一种。
+
+在阅读了阿伦斯的书后，我决定尝试这种方法。 出于多种原因，我认为不想选择可用的 Emacs 软件包之一。 第一个是我不明白为什么除了普通的组织模式之外我还需要其他任何东西。 第二个是，在了解该方法如何以及是否对我有用之前，我不想承诺任何特定的实现。
+
+**** 我是怎么做的
 
 
